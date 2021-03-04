@@ -2,5 +2,7 @@
 
 int main(){
 	
-	std::cout << "Hello, C+d\n" ;
+	std::cout << "Hello, C++\n";
+
 	return 0;
+	
